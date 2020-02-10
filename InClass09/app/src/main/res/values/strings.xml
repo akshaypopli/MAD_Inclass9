@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InClass09</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pwd">Pasword</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signUp">Sign Up</string>
+    <string name="hint_firstName">First Name</string>
+    <string name="hint_lastName">Last Name</string>
+    <string name="hint_choosePwd">Choose Password</string>
+    <string name="hint_repeatPwd">Repeat Password</string>
+    <string name="tv_sendto">Send to:</string>
+    <string name="hint_subject">Subject</string>
+    <string name="tv_msg">Message</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="tv_senderName">Sender</string>
+    <string name="tv_createdAt">Created At</string>
+    <string name="btn_close">Close</string>
+</resources>
